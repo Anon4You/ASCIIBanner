@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import os
 import sys
@@ -125,7 +125,7 @@ class ASCIIBanner:
     def __init__(self):
         self.font_dir = self.get_font_dir()
         self.font_cache: Dict[str, FLFFont] = {}
-        self.default_font = 'standard'
+        self.default_font = 'Standard'
         self.terminal_width = self.get_terminal_width()
         
     def get_font_dir(self) -> str:
@@ -166,7 +166,7 @@ class ASCIIBanner:
             'bloody': 'Bloody',
             'tickslant': 'tickslant',
             'slant': 'slant',
-            'standard': 'standard',
+            'Standard': 'Standard',
             'block': 'block'
         }
         
@@ -370,7 +370,7 @@ def main():
     
     parser = argparse.ArgumentParser(description='ASCIIBanner - FIGlet-compatible ASCII art generator with colors')
     parser.add_argument('text', nargs='?', default=None, help='Text to convert')
-    parser.add_argument('-f', '--font', default='standard', help='Font to use')
+    parser.add_argument('-f', '--font', default='Standard', help='Font to use')
     parser.add_argument('-c', '--center', action='store_true', help='Center-align output')
     parser.add_argument('-r', '--right', action='store_true', help='Right-align output')
     parser.add_argument('-w', '--width', type=int, default=0, help='Output width')
