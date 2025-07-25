@@ -10,10 +10,10 @@ A feature-rich FIGlet-compatible ASCII art generator with color support and font
 
 ### Method 1: One-line Install (Recommended)
 ```bash
-curl -sL is.gd/asciibanner | bash
+curl -sL https://is.gd/asciibanner | bash
 ```
 
-### Method 2: APT Install
+### Method 2: Alienkrishn repo APT Install
 ```bash
 apt install asciibanner
 ```
@@ -73,15 +73,6 @@ We welcome contributions! Please read our:
 - [Contribution Guidelines](CONTRIBUTING.md)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
 
-## 📦 Font Packages
-
-Additional font packages available:
-```bash
-# Install extra fonts (if available)
-apt install asciibanner-fonts-extra
-```
-
----
 
 Developed by [Anon4You](https://github.com/Anon4You) • [Report Issues](https://github.com/Anon4You/ASCIIBanner/issues) • [Documentation](https://github.com/Anon4You/ASCIIBanner/wiki)
 
