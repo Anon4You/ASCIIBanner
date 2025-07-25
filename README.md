@@ -67,12 +67,6 @@ done
 
 This project is licensed under the **BSD 3-Clause "New" or "Revised" License** - see the [LICENSE](LICENSE) file for complete details.
 
-## 🤝 Contributing
-
-We welcome contributions! Please read our:
-- [Contribution Guidelines](CONTRIBUTING.md)
-- [Code of Conduct](CODE_OF_CONDUCT.md)
-
 
 Developed by [Anon4You](https://github.com/Anon4You) • [Report Issues](https://github.com/Anon4You/ASCIIBanner/issues) 
 
