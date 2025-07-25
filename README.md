@@ -74,6 +74,6 @@ We welcome contributions! Please read our:
 - [Code of Conduct](CODE_OF_CONDUCT.md)
 
 
-Developed by [Anon4You](https://github.com/Anon4You) • [Report Issues](https://github.com/Anon4You/ASCIIBanner/issues) • [Documentation](https://github.com/Anon4You/ASCIIBanner/wiki)
+Developed by [Anon4You](https://github.com/Anon4You) • [Report Issues](https://github.com/Anon4You/ASCIIBanner/issues) 
 
 *"Transform your terminal into a canvas of ASCII art"*
